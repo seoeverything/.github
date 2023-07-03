@@ -1,0 +1,2 @@
+# .github
+SEO Everything
